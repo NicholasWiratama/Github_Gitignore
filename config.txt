@@ -1,0 +1,9 @@
+# Configuration File
+
+[general]
+app_name = Simple Index
+version = 1.0.0
+
+[settings]
+debug_mode = true
+max_users = 100
